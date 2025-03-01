@@ -1,0 +1,8 @@
+pytesseract
+pdf2image
+fastapi
+uvicorn
+dotenv
+openai
+json
+docx
